@@ -15,7 +15,7 @@ nameOverride: ""
 fullnameOverride: ""
 
 env:
-  MICROSERVICE_LINK: "https://google.com"
+  MICROSERVICE_LINK: "http://microservice-button-app-microservice:80"
 
 serviceAccount:
   # Specifies whether a service account should be created

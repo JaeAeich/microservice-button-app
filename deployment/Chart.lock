@@ -1,0 +1,6 @@
+dependencies:
+- name: deployment
+  repository: git+https://github.com/JaeAeich/microservice-button-app-microservice@deployment?ref=0.1.0
+  version: 0.1.0
+digest: sha256:b50baa7c03530ec32d81d8d600299312d5e0806e2c9eca1c1cd8aea793c05f76
+generated: "2025-01-18T11:31:52.399078199+05:30"

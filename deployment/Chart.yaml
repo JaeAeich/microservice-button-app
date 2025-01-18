@@ -22,3 +22,8 @@ version: 0.1.0
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 appVersion: "latest"
+
+dependency:
+  - name: micrservice-button-app-microservice
+    version: 0.1.0
+    repo: "git+ssh://git@github.com/jaeaeich/micrservice-button-app-microservice@deployment?ref=main"
